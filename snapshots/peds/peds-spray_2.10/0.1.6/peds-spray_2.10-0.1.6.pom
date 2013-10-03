@@ -80,6 +80,12 @@
             <layout>default</layout>
         </repository>
         <repository>
+            <id>dmrolfs</id>
+            <name>dmrolfs</name>
+            <url>http://dmrolfs.github.com/snapshots/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
             <id>Typesafereleases</id>
             <name>Typesafe releases</name>
             <url>http://repo.typesafe.com/typesafe/releases/</url>
