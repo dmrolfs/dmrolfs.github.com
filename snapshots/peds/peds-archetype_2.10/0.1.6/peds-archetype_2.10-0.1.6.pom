@@ -20,6 +20,11 @@
     </organization>
     <dependencies>
         <dependency>
+            <groupId>peds</groupId>
+            <artifactId>peds-commons_2.10</artifactId>
+            <version>0.1.6</version>
+        </dependency>
+        <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
             <version>2.10.2</version>
