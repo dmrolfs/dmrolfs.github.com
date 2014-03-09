@@ -101,5 +101,11 @@
             <url>http://repo.typesafe.com/typesafe/releases/</url>
             <layout>default</layout>
         </repository>
+        <repository>
+            <id>rillitrepository</id>
+            <name>rillit-repository</name>
+            <url>http://akisaarinen.github.com/rillit/maven/</url>
+            <layout>default</layout>
+        </repository>
     </repositories>
 </project>

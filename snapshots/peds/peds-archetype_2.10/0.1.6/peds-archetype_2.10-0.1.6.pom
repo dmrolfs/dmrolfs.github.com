@@ -65,6 +65,11 @@
             <version>1.6</version>
         </dependency>
         <dependency>
+            <groupId>fi.akisaarinen</groupId>
+            <artifactId>rillit_2.10</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+        <dependency>
             <groupId>scala-time</groupId>
             <artifactId>scala-time_2.10</artifactId>
             <version>0.3.2</version>
@@ -104,6 +109,12 @@
             <id>Typesafereleases</id>
             <name>Typesafe releases</name>
             <url>http://repo.typesafe.com/typesafe/releases/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
+            <id>rillitrepository</id>
+            <name>rillit-repository</name>
+            <url>http://akisaarinen.github.com/rillit/maven/</url>
             <layout>default</layout>
         </repository>
     </repositories>
