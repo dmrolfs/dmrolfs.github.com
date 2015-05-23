@@ -81,6 +81,12 @@
             <layout>default</layout>
         </repository>
         <repository>
+            <id>scalazbintray</id>
+            <name>scalaz-bintray</name>
+            <url>http://dl.bintray.com/scalaz/releases/</url>
+            <layout>default</layout>
+        </repository>
+        <repository>
             <id>dmrolfs</id>
             <name>dmrolfs</name>
             <url>http://dmrolfs.github.com/snapshots/</url>
