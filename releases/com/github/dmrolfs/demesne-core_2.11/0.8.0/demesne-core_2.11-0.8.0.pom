@@ -28,13 +28,13 @@
         <dependency>
             <groupId>org.scoverage</groupId>
             <artifactId>scalac-scoverage-runtime_2.11</artifactId>
-            <version>1.1.0</version>
+            <version>1.0.4</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.scoverage</groupId>
             <artifactId>scalac-scoverage-plugin_2.11</artifactId>
-            <version>1.1.0</version>
+            <version>1.0.4</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
