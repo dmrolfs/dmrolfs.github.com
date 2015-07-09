@@ -169,6 +169,16 @@
             <version>2.3.11</version>
         </dependency>
         <dependency>
+            <groupId>org.scalaz</groupId>
+            <artifactId>scalaz-concurrent_2.11</artifactId>
+            <version>7.1.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.dmrolfs</groupId>
+            <artifactId>peds-archetype_2.11</artifactId>
+            <version>0.1.6</version>
+        </dependency>
+        <dependency>
             <groupId>org.atteo</groupId>
             <artifactId>evo-inflector</artifactId>
             <version>1.2</version>
